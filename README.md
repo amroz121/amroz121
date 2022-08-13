@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amroz121
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me amrh71@gmail.com
 
 <!---
 amroz121/amroz121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
