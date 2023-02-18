@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amroz121
+- 👋 Hi, I’m Amr!
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and Python...
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me amrh71@gmail.com
 
